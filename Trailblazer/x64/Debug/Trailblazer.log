@@ -1,0 +1,17 @@
+﻿  Trailblazer.cpp
+StanfordCPPLib-vs2022.lib(error.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(error.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(random.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(random.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(strlib.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(strlib.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(gwindow.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(gwindow.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(platform.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(platform.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(gobjects.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(gobjects.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(gevents.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(gevents.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(ginteractors.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(ginteractors.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(filelib.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(filelib.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(startup.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(startup.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(gtypes.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(gtypes.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(gmath.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(gmath.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(gtimer.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(gtimer.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(hashmap.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(hashmap.obj)' or at ''; linking object as if no debug info
+StanfordCPPLib-vs2022.lib(tokenscanner.obj) : warning LNK4099: PDB '' was not found with 'StanfordCPPLib-vs2022.lib(tokenscanner.obj)' or at ''; linking object as if no debug info
+  Trailblazer.vcxproj -> C:\Users\katos\OneDrive\Desktop\Assignment7-vs2022\x64\Debug\Trailblazer.exe
